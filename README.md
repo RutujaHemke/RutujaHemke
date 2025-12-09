@@ -1,5 +1,3 @@
-# dumyRepo
-
 <h1 align="center">Hi 👋, I'm Rutuja Hemke</h1>
 <h3 align="center"> Frontend Developer | React • JavaScript • HTML • CSS </h3>
 
