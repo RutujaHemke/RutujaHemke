@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on **Fronend Development**
+- 🔭 I’m passionate about creating **attractive, responsive & interactive web interfaces**.  
 - 🌱 Exploring **HTML/CSS/JS & React**
 - 💼 Building projects like **CamKart Website**
 - 🎯 Goal: Become a **Skilled Frontend Developer**
@@ -16,12 +16,12 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/rutuja07/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:rutujahemke07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/RutujaHemke"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack 
-// (Aesthetic Button Style)
 
 ### **Languages**
 <p>
@@ -60,6 +60,13 @@
 
 ## 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RutujaHemke&theme=react-dark&hide_border=true)
+
+
+## 🧭 Profile Timeline / Activity Details Graph
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RutujaHemke&theme=react" />
+</p>
+
 
 
 ---
