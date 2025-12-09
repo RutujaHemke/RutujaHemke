@@ -83,6 +83,14 @@ More coming soon… 🚀
 
 ---
 
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=RutujaHemke&label=Profile%20Visits&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+---
+
 ## ❤️ Support
 If you like my work, consider giving a ⭐ to my repositories!
 
