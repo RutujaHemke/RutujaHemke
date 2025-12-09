@@ -33,5 +33,7 @@ HTML | CSS | JavaScript | React | Java | SQL
 - 🌐 Website: [https://github.com/RutujaHemke/front-end-portfolio]
 
 
-<img src="https://komarev.com/ghpvc/?username=RutujaHemke&style=flat-square&color=brightgreen" alt="Visitor Count" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RutujaHemke&style=flat-square&color=brightgreen" alt="Visitor Count" />
+</div>
 
