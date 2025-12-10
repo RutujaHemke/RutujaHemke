@@ -7,7 +7,6 @@
 - 🔭 I’m passionate about creating **attractive, responsive & interactive web interfaces**.  
 - 🌱 Exploring **HTML/CSS/JS & React**
 - 💼 Building projects like **CamKart Website**
-- 🎯 Goal: Become a **Skilled Frontend Developer**
 - ⚡ Fun fact: I love turning ideas into beautiful UI ✨
 
 ---
