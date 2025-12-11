@@ -5,8 +5,8 @@
 
 ## 🚀 About Me
 - 🔭 I’m passionate about creating **attractive, responsive & interactive web interfaces**.  
-- 🌱 Exploring **HTML/CSS/JS & React**
-- 💼 Building projects like **CamKart Website**
+- 🌱 Exploring **HTML/CSS/JS & React**.
+- 💼 Reach me at <a href="https://rutujahemke.github.io/front-end-portfolio/"> Portfolio website </a>
 - ⚡ Fun fact: I love turning ideas into beautiful UI ✨
 
 ---
