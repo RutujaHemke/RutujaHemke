@@ -69,19 +69,6 @@ More coming soon… 🚀
 
 ---
 
-
-## 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RutujaHemke&theme=react-dark&hide_border=true)
-
----
-
-## 🧭 Profile Timeline / Activity Details Graph
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RutujaHemke&theme=react" />
-</p>
-
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=RutujaHemke&label=Profile%20Visits&style=for-the-badge" alt="Profile Views" />
